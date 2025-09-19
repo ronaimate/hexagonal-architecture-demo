@@ -1,0 +1,6 @@
+spring:
+  main:
+    keep-alive: true
+
+user-scheduler:
+  cron: "0 */1 * * * *"
